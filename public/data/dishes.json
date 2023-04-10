@@ -1,0 +1,54 @@
+[
+    {
+        "label": "Honeyed Apple",
+        "price": 20,
+        "hearts": 6,
+        "ingredients": {
+            "first": ["Apple"],
+            "second": ["Courser Bee Honey"]
+        }
+    },
+    {
+        "label": "Honeyed Fruits",
+        "price": 20,
+        "ingredients": {
+            "first": [
+                "Hearty Durian",
+                "Palm Fruit",
+                "Wildberry",
+                "Hydromelon",
+                "Spicy Pepper",
+                "Voltfruit",
+                "Fleet-Lotus Seeds",
+                "Mighty Bananas"
+            ],
+            "second": ["Courser Bee Honey"]
+        }
+    },
+    {
+        "label": "Simmered Fruit",
+        "price": 0,
+        "ingredients": {
+            "first": [
+                "Apple",
+                "Hearty Durian",
+                "Palm Fruit",
+                "Wildberry",
+                "Hydromelon",
+                "Spicy Pepper",
+                "Voltfruit",
+                "Fleet-Lotus Seeds",
+                "Mighty Bananas"
+            ],
+            "second": []
+        }
+    },
+    {
+        "label": "Honey Candy",
+        "price": 20,
+        "ingredients": {
+            "first": [],
+            "second": ["Courser Bee Honey"]
+        }
+    }
+]

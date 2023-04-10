@@ -1,0 +1,676 @@
+[
+    {
+        "hearts": 0.5,
+        "type": "Fruit",
+        "label": "Voltfruit",
+        "cost": 16,
+        "value": 4,
+        "locations": ["Gerudo Desert", "Gerudo Highlands"],
+        "usage": [
+            "Restoring Hearts",
+            "Shock Resistance",
+            "Making Orange Dye",
+            "Cooking Ingredient",
+            "Armor Upgrades"
+        ]
+    },
+    {
+        "hearts": 0.5,
+        "type": "Fruit",
+        "label": "Apple",
+        "cost": 12,
+        "value": 3,
+        "locations": ["Hyrule Field", "East Necluda"],
+        "usage": [
+            "Restoring Hearts",
+            "Feeding Horses",
+            "Making Red Dye",
+            "Cooking Ingredient"
+        ]
+    },
+    {
+        "hearts": 4,
+        "type": "Vegetable",
+        "label": "Big Hearty Radish",
+        "cost": 0,
+        "value": 15,
+        "locations": ["Akkala Highlands", "Lanayru Great Spring"],
+        "usage": [
+            "Restoring Hearts",
+            "Temporarily Increasing Maximum Hearts",
+            "Making Peach Dye",
+            "Cooking Ingredient"
+        ]
+    },
+    {
+        "hearts": 2,
+        "type": "Vegetable",
+        "label": "Endura Carrot",
+        "cost": 30,
+        "value": 30,
+        "locations": ["Hyrule Ridge", "Faron Grasslands"],
+        "usage": [
+            "Restoring Hearts",
+            "Increasing Stamina",
+            "Reviving Horses",
+            "Making Light Yellow Dye",
+            "Cooking Ingredient"
+        ]
+    },
+    {
+        "hearts": 0.5,
+        "type": "Fruit",
+        "label": "Fleet-Lotus Seeds",
+        "cost": 0,
+        "value": 5,
+        "locations": ["Lanayru Wetlands", "Lanayru Great Spring"],
+        "usage": ["Restoring Hearts", "Making Green Dye", "Cooking Ingredient"]
+    },
+    {
+        "hearts": 0.5,
+        "type": "Vegetable",
+        "label": "Fortified Pumpkin",
+        "cost": 20,
+        "value": 5,
+        "locations": ["Kakariko Village"],
+        "usage": [
+            "Restoring Hearts",
+            "Increasing Defense",
+            "Making Orange Dye",
+            "Cooking Ingredient"
+        ]
+    },
+    {
+        "hearts": 3,
+        "type": "Fruit",
+        "label": "Hearty Durian",
+        "cost": 60,
+        "value": 15,
+        "locations": ["West Necluda", "Faron Grasslands"],
+        "usage": [
+            "Restoring Hearts",
+            "Making Light Yellow Dye",
+            "Cooking Ingredient"
+        ]
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "2-1/2",
+        "type": "Vegetable",
+        "label": "Hearty Radish"
+    },
+    {
+        "cookedEffect": "Increased hearts",
+        "hearts": "1",
+        "type": "Herb",
+        "label": "Hyrule Herb"
+    },
+    {
+        "cookedEffect": "Temporary attack power",
+        "hearts": "1/2",
+        "type": "Fruit",
+        "label": "Mighty Bananas"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "1",
+        "type": "Fruit",
+        "label": "Palm Fruit"
+    },
+    {
+        "cookedEffect": "Temporary cold resistance",
+        "hearts": "1/2",
+        "type": "Fruit",
+        "label": "Spicy Pepper"
+    },
+    {
+        "cookedEffect": "+1-1/2 Hearts",
+        "hearts": "1",
+        "type": "Roasted Meat",
+        "label": "Seared Steak"
+    },
+    {
+        "cookedEffect": "Temporary speed",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Swift Carrot"
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "3",
+        "type": "Vegetable",
+        "label": "Big Hearty Truffle"
+    },
+    {
+        "cookedEffect": "Temporary mid-level heat resistance 4 items = 10:30 ",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Chillshroom"
+    },
+    {
+        "cookedEffect": "Temporary stamina",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Endura Shroom"
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "2",
+        "type": "Vegetable",
+        "label": "Hearty Truffle"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Hylian Shroom"
+    },
+    {
+        "cookedEffect": "Temporary high-level defense",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Ironshroom"
+    },
+    {
+        "cookedEffect": "Temporary strength",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Razorshroom"
+    },
+    {
+        "cookedEffect": "Temporary mid-level speed 5 items = 05:00",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Rushroom"
+    },
+    {
+        "cookedEffect": "Temporary high-level stealth",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Silent Shroom"
+    },
+    {
+        "cookedEffect": "Each restores 1/4 stamina",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Stamella Shroom"
+    },
+    {
+        "cookedEffect": "Temporary cold resistance",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Sunshroom"
+    },
+    {
+        "cookedEffect": "Temporary high-level electricity resistance",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Zapshroom"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "3",
+        "type": "Vegetable",
+        "label": "Raw Gourmet Meat"
+    },
+    {
+        "droppedBy": "Deer",
+        "hearts": "1-1/2",
+        "type": "Vegetable",
+        "label": "Raw Prime Meat"
+    },
+    {
+        "droppedBy": "Foxes",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Raw Meat"
+    },
+    {
+        "droppedBy": "Birds",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Raw Bird Drumstick"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "1/4",
+        "type": "Vegetable",
+        "label": "Acorn"
+    },
+    {
+        "cookedEffect": "Omelets",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Bird Egg"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "1/4",
+        "type": "Vegetable",
+        "label": "Chickaloo Tree Nut"
+    },
+    {
+        "cookedEffect": "Temporary stamina",
+        "hearts": "2",
+        "type": "Vegetable",
+        "label": "Courser Bee Honey"
+    },
+    {
+        "cookedEffect": "Soups, stews",
+        "hearts": "1/2",
+        "type": "Vegetable",
+        "label": "Fresh Milk"
+    },
+    {
+        "cookedEffect": "",
+        "hearts": "0",
+        "type": "Vegetable",
+        "label": "Goron Spice"
+    },
+    {
+        "cookedEffect": "Rice balls, rice bowls, and risotto.",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Hylian Rice"
+    },
+    {
+        "cookedEffect": "From Kilton's Research",
+        "hearts": "0",
+        "type": "Vegetable",
+        "label": "Monster Extract"
+    },
+    {
+        "cookedEffect": "Salted meat, salted fish",
+        "hearts": "0",
+        "type": "Vegetable",
+        "label": "Rock Salt"
+    },
+    {
+        "cookedEffect": "Temporary defense",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Armored Carp"
+    },
+    {
+        "cookedEffect": "Temporary defense",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Armored Porgy"
+    },
+    {
+        "cookedEffect": "Temporary stamina",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Bright-Eyed Crab"
+    },
+    {
+        "cookedEffect": "Temporary heat resistance",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Chillfin Trout"
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "2",
+        "type": "Vegetable",
+        "label": "Hearty Bass"
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "3",
+        "type": "Vegetable",
+        "label": "Hearty Blueshell Snail"
+    },
+    {
+        "cookedEffect": "Temporary maximum hearts",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Hyrule Bass"
+    },
+    {
+        "cookedEffect": "Temporary defense",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Ironshell Crab"
+    },
+    {
+        "cookedEffect": "Temporary attack power",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Mighty Carp"
+    },
+    {
+        "cookedEffect": "Temporary attack power",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Mighty Porgy"
+    },
+    {
+        "cookedEffect": "Temporary attack power",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Razorclaw Crab"
+    },
+    {
+        "cookedEffect": "Temporary cold resistance",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Sizzlefin Trout"
+    },
+    {
+        "cookedEffect": "Temporary low-level stealth",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Sneaky River Snail"
+    },
+    {
+        "cookedEffect": "Temporary electricity resistance",
+        "hearts": "1",
+        "type": "Vegetable",
+        "label": "Voltfin Trout"
+    },
+    {
+        "cookedEffect": "Elixir",
+        "hearts": "Effect/Elixir",
+        "type": "Vegetable",
+        "label": "Name"
+    },
+    {
+        "elixir": "",
+        "effect": "Heat-Resistance",
+        "type": "Vegetable",
+        "label": "Cold Darner"
+    },
+    {
+        "elixir": "Electro Elixir",
+        "effect": "Mid-level resistance to electricity",
+        "type": "Vegetable",
+        "label": "Electric Darner"
+    },
+    {
+        "elixir": "Fairy Tonic",
+        "effect": "Automatically restores 5 hearts when defeated by a monster; when cooked with a moster part, it creates a tonic for 2 additional hearts",
+        "type": "Vegetable",
+        "label": "Fairy"
+    },
+    {
+        "elixir": "Fireproof Elixir",
+        "effect": "Heat resistance (fireproof)",
+        "type": "Vegetable",
+        "label": "Fireproof Lizard"
+    },
+    {
+        "elixir": "",
+        "effect": "Temporary maximum hearts",
+        "type": "Vegetable",
+        "label": "Hearty Lizard"
+    },
+    {
+        "elixir": "Hasty Elixir",
+        "effect": "Low-level haste effect - Boosts movement speed",
+        "type": "Vegetable",
+        "label": "Hightail Lizard"
+    },
+    {
+        "elixir": "",
+        "effect": "Speed-boost",
+        "type": "Vegetable",
+        "label": "Hot-Footed Frog"
+    },
+    {
+        "elixir": "",
+        "effect": "Stamina-recovery",
+        "type": "Vegetable",
+        "label": "Restless Cricket"
+    },
+    {
+        "elixir": "Tough Elixir",
+        "effect": "Defense",
+        "type": "Vegetable",
+        "label": "Rugged Rhino Beetle"
+    },
+    {
+        "elixir": "",
+        "effect": "Frost-resist",
+        "type": "Vegetable",
+        "label": "Sizzlewing Butterfly"
+    },
+    {
+        "elixir": "",
+        "effect": "Heat resistance (?)",
+        "type": "Vegetable",
+        "label": "Smotherwing Butterfly"
+    },
+    {
+        "elixir": "",
+        "effect": "Heat-resistance (?)",
+        "type": "Vegetable",
+        "label": "Summerwing Butterfly"
+    },
+    {
+        "elixir": "Sneaky Elixir",
+        "effect": "Low-level stealth effect",
+        "type": "Vegetable",
+        "label": "Sunset Firefly"
+    },
+    {
+        "elixir": "",
+        "effect": "Electrical resistance",
+        "type": "Vegetable",
+        "label": "Thunderwing Butterfly"
+    },
+    {
+        "elixir": "",
+        "effect": "Maximum stamina",
+        "type": "Vegetable",
+        "label": "Tireless Frog"
+    },
+    {
+        "elixir": "",
+        "effect": "Cold-resistance",
+        "type": "Vegetable",
+        "label": "Warm Darner"
+    },
+    {
+        "elixir": "",
+        "effect": "Heat-resistance",
+        "type": "Vegetable",
+        "label": "Winterwing Butterfly"
+    },
+    {
+        "price": "30 rupees",
+        "uses": "A fossilized resin with a caramelesque sheen to it. It's been valued as a component in decorations and crafting since ancient times.",
+        "type": "Vegetable",
+        "label": "Amber"
+    },
+    {
+        "price": "500 rupees",
+        "uses": "The most precious gem one can find in Hyrule, it's signature sparkle has charmed Hyruleans for generations. As such, it has sold for a very high price since ancient times.",
+        "type": "Vegetable",
+        "label": "Diamond"
+    },
+    {
+        "price": "5 rupees",
+        "uses": "Strike it with a metallic weapon to generate a spark.  This portable fire starter breaks after one use, but it can create a long-lasting flame if you use it near firewood.",
+        "type": "Vegetable",
+        "label": "Flint"
+    },
+    {
+        "price": "70 rupees",
+        "uses": "This mysterious mineral gives off a pale blue glow in the dark, which some believe to be souls of the dea. Apparently, this stone can be used as a base to make special clothing.",
+        "type": "Vegetable",
+        "label": "Luminous Stone"
+    },
+    {
+        "price": "60 rupees",
+        "uses": "A valuable ore that gives off a mesmerizing iridescence similar to the inside of a seashell.  It contains the power of water.",
+        "type": "Vegetable",
+        "label": "Opal"
+    },
+    {
+        "price": "210 rupees",
+        "uses": "A precious red gem mined from large ore deposits found throghout Hyrule. Rubies contain the power of fire and have fetched a high price since ancient times.",
+        "type": "Vegetable",
+        "label": "Ruby"
+    },
+    {
+        "price": "260 rupees",
+        "uses": "A precious blue gem mined from natural rock formations. Sapphires contain the very essence of ice. They've been known to fetch a high price since ancient times.",
+        "type": "Vegetable",
+        "label": "Sapphire"
+    },
+    {
+        "price": "180 rupees",
+        "uses": "This precious yellow gem contains the power of electricity. It's been known to fetch a high price since ancient times.",
+        "type": "Vegetable",
+        "label": "Topaz"
+    },
+    {
+        "cookedEffect": "Temporary defense",
+        "uses": "5 rupees",
+        "type": "Vegetable",
+        "label": "Armoranth"
+    },
+    {
+        "cookedEffect": "Temporary stealth",
+        "uses": "4 rupees",
+        "type": "Vegetable",
+        "label": "Blue Nightshade"
+    },
+    {
+        "cookedEffect": "Temporary heat resistance",
+        "uses": "3 rupees",
+        "type": "Vegetable",
+        "label": "Cool Safflina"
+    },
+    {
+        "cookedEffect": "Increases hearts restored",
+        "uses": "3 rupees",
+        "type": "Vegetable",
+        "label": "Hyrule Herb"
+    },
+    {
+        "cookedEffect": "Temporary attack power",
+        "uses": "5 rupees",
+        "type": "Vegetable",
+        "label": "Mighty Thisle"
+    },
+    {
+        "cookedEffect": "Unknown",
+        "uses": "10 rupees",
+        "type": "Vegetable",
+        "label": "Silent Princess"
+    },
+    {
+        "cookedEffect": "Temporary increased movement speed",
+        "uses": "10 rupees",
+        "type": "Vegetable",
+        "label": "Swift Violet"
+    },
+    {
+        "cookedEffect": "Temporary cold resistance",
+        "uses": "3 rupees",
+        "type": "Vegetable",
+        "label": "Warm Safflina"
+    },
+    {
+        "cookedEffect": null,
+        "droppedBy": "Bokoblin",
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Bokoblin Fang"
+    },
+    {
+        "cookedEffect": null,
+        "droppedBy": "Bokoblin",
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Bokoblin Guts"
+    },
+    {
+        "cookedEffect": null,
+        "droppedBy": "Bokoblin",
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Bokoblin Horn"
+    },
+    {
+        "cookedEffect": null,
+        "parts": [
+            "Chuchu Jelly",
+            "Red Chuchu Jelly",
+            "White Chuchu Jelly",
+            "Yellow Chuchu Jelly"
+        ],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Chuchu"
+    },
+    {
+        "cookedEffect": null,
+        "parts": [
+            "Ancient Core",
+            "Ancient Gear",
+            "Ancient Screw",
+            "Ancient Shaft",
+            "Ancient Spring",
+            "Giant Ancient Core"
+        ],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Guardian"
+    },
+    {
+        "cookedEffect": null,
+        "parts": ["Hinox Guts", "Hinox Toenail", "Hinox Tooth"],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Hinox"
+    },
+    {
+        "cookedEffect": null,
+        "parts": [
+            "Ice Keese Wing",
+            "Electric Keese Wing",
+            "Fire Keese Wing",
+            "Keese Wing",
+            "Keese Eyeball"
+        ],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Keese"
+    },
+    {
+        "cookedEffect": null,
+        "parts": [
+            "Lizalfos Horn",
+            "Lizalfos Tail",
+            "Lizalfos Talon",
+            "Red Lizalfos Tail"
+        ],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Lizalfos"
+    },
+    {
+        "cookedEffect": null,
+        "parts": ["Lynel Guts", "Lynel Hoof", "Lynel Tail"],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Lynel"
+    },
+    {
+        "cookedEffect": null,
+        "parts": ["Moblin Fang", "Moblin Guts", "Moblin Horn"],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Moblin"
+    },
+    {
+        "cookedEffect": null,
+        "parts": ["Octo Balloon", "Octorock Eyeball", "Octorock Tentacle"],
+        "hearts": null,
+        "type": "Vegetable",
+        "label": "Octorok"
+    }
+]
